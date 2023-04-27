@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "셉템 | 기술 블로그",
-    "base_url": "https://tech.webgram.co.kr",
+    "base_url": "https://blog.septepm-ai.com",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
