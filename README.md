@@ -1,4 +1,4 @@
-<h1 align=center>Septem AI Front Team Tach blog</h1>
+<h1 align=center>Septem AI Front Team Tch blog</h1>
 
 <!-- installation -->
 ## Installation
