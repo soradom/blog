@@ -1,8 +1,4 @@
-<h1 align=center>Septem AI Front Teasm Tach blod</h1>
-theme.</p>
-<h2 align="center">
-  <a target="_blank" href="https://blog.septepm-ai.com">https://blog.septepm-ai.com</a>
-</h2>
+<h1 align=center>Septem AI Front Teasm Tach blog</h1>
 
 <!-- installation -->
 ## Installation
